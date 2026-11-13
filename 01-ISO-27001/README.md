@@ -1,6 +1,6 @@
  ISO/IEC 27001:2022 – ISMS Implementation
 
- 1. Project Overview
+1. Project Overview
 
 This project demonstrates the implementation of an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022.
 
