@@ -25,12 +25,8 @@ The portfolio covers the following activities:
 ## Repository Structure
 
 ```text
-GRC-Portfolio/
-│
-├── README.md
-├── Portfolio-Index.pdf
-│
-└── 01-ISO-27001/
+
+    01-ISO-27001
     │
     ├── 01-ISMS-Foundation/
     │   └── ISMS-Charter-Scope-and-Context.pdf
@@ -57,19 +53,6 @@ GRC-Portfolio/
         └── Corrective-Action-and-CAPA-Register.pdf
 ```
 
-## Project Documentation
-
-| Area | Document | Description |
-|---|---|---|
-| ISMS Foundation | [ISMS Charter, Scope and Context](01-ISO-27001/01-ISMS-Foundation/ISMS-Charter-Scope-and-Context.pdf) | Defines the ISMS scope, organizational context and interested parties. |
-| Risk Management | [Risk Methodology and Register](01-ISO-27001/02-Risk-Management/Risk-Methodology-and-Register.pdf) | Documents the risk assessment methodology, identified risks and treatment decisions. |
-| Statement of Applicability | [Statement of Applicability](01-ISO-27001/03-Statement-of-Applicability/Statement-of-Applicability.pdf) | Records Annex A control applicability decisions and justifications. |
-| Policies | [Information Security Policy Handbook](01-ISO-27001/04-Policies-and-Procedures/Information-Security-Policy-Handbook.pdf) | Consolidates key information security policies and requirements. |
-| Control Implementation | [Control Implementation and Evidence Plan](01-ISO-27001/05-Control-Implementation/Control-Implementation-and-Evidence-Plan.pdf) | Documents control implementation activities, ownership and expected audit evidence. |
-| Internal Audit | [Internal Audit Programme and Report](01-ISO-27001/06-Internal-Audit/Internal-Audit-Programme-and-Simulated-Report.pdf) | Demonstrates audit planning, control testing, findings and recommendations. |
-| Management Review | [Management Review Record](01-ISO-27001/07-Management-Review/Management-Review-Record.pdf) | Documents management review inputs, decisions and assigned actions. |
-| Corrective Actions | [Corrective Action and CAPA Register](01-ISO-27001/08-Corrective-Actions/Corrective-Action-and-CAPA-Register.pdf) | Tracks nonconformities, root cause analysis, corrective actions and simulated verification. |
-
 ## Key Case Study Decisions
 
 The fictional organization and its ISMS scenario use the following assumptions and decisions:
@@ -86,48 +69,6 @@ The fictional organization and its ISMS scenario use the following assumptions a
 | Internal audit | 2 major nonconformities, 2 minor findings and 1 opportunity for improvement |
 | Corrective actions | Documented CAPA actions with simulated verification outcomes |
 
-## Framework and Methodology
-
-**Primary framework:** ISO/IEC 27001:2022
-
-The project demonstrates the application of:
-
-- ISO 27001 ISMS requirements
-- Information security risk assessment and treatment
-- ISO 27001:2022 Annex A control assessment
-- Internal audit principles
-- Management review
-- Corrective action and continual improvement
-
-## Skills Demonstrated
-
-- Governance, Risk and Compliance (GRC)
-- ISMS documentation and implementation planning
-- Information security risk assessment
-- Risk treatment and risk register management
-- Statement of Applicability (SoA)
-- Security policy development
-- Control mapping and evidence identification
-- Internal audit and control testing
-- Nonconformity management
-- Root Cause Analysis (RCA)
-- Corrective and Preventive Action (CAPA)
-- Compliance gap assessment
-
-## How to Navigate This Project
-
-For a structured understanding of the ISMS lifecycle, review the documents in this order:
-
-1. ISMS Foundation
-2. Risk Management
-3. Statement of Applicability
-4. Policies and Procedures
-5. Control Implementation
-6. Internal Audit
-7. Management Review
-8. Corrective Actions
-
-The [Portfolio Index](Portfolio-Index.pdf) provides an additional document overview.
 
 ## Disclaimer
 
