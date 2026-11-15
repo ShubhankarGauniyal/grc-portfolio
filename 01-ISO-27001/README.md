@@ -12,7 +12,7 @@ Repository structure
 07 ISO-27001/07-Management-Review/ – simulated management review record
 08 ISO-27001/08-Corrective-Actions/ – CAPA procedure and register
 
-Case-study decisions
+Case study decisions
 The scope covers corporate IT, software engineering, client delivery and cloud operations supporting services delivered from India, including hybrid work and relevant supplier interfaces. Ten material risks are assessed using a 5×5 likelihood impact model. The SoA records 91 applicable controls and 2 reasoned exclusions. The internal audit scenario records two major nonconformities, two minor observations and one opportunity for improvement, with assigned corrective actions and closure tests.
 
 How to use
