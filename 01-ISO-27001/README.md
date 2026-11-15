@@ -1,82 +1,22 @@
- ISO/IEC 27001:2022 – ISMS Implementation
+GRC Portfolio – ISO/IEC 27001:2022 ISMS Case Study
 
-1. Project Overview
+This repository contains a completed, internally consistent simulated ISMS portfolio for Spartans Technologies, a fictional India-based IT services company. It demonstrates scope definition, context analysis, risk assessment and treatment, SoA decisions, policy design, control implementation planning, internal audit, management review and corrective action.
 
-This project demonstrates the implementation of an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022.
+Repository structure
+01 ISO-27001/01-ISMS-Foundation/ – ISMS charter, scope and context
+02 ISO-27001/02-Risk-Management/ – risk methodology and register
+03 ISO-27001/03-Statement-of-Applicability/ – 93-control SoA
+04 ISO-27001/04-Policies-and-Procedures/ – consolidated policy handbook
+05 ISO-27001/05-Control-Implementation/ – implementation plan and evidence register
+06 ISO-27001/06-Internal-Audit/ – audit programme and simulated audit report
+07 ISO-27001/07-Management-Review/ – simulated management review record
+08 ISO-27001/08-Corrective-Actions/ – CAPA procedure and register
 
-The case study is based on a fictional India-based IT services organization providing software development and cybersecurity services to international clients.
+Case-study decisions
+The scope covers corporate IT, software engineering, client delivery and cloud operations supporting services delivered from India, including hybrid work and relevant supplier interfaces. Ten material risks are assessed using a 5×5 likelihood impact model. The SoA records 91 applicable controls and 2 reasoned exclusions. The internal audit scenario records two major nonconformities, two minor observations and one opportunity for improvement, with assigned corrective actions and closure tests.
 
-The objective is to establish a structured information security management framework to identify risks, implement security controls, protect information assets, and support compliance with ISO 27001:2022 requirements.
+How to use
+Read the foundation document first, then the risk register, SoA, policy handbook, implementation plan, audit report, management review and CAPA register. Use the evidence register to understand what an auditor would request and how operating effectiveness should be tested.
+Important limitation
 
-2. Organization Profile
-
-| Parameter | Details |
-
-| Organization | Spartans Technologies (Case Study) |
-| Industry | IT Services and Cybersecurity |
-| Location | India |
-| Employees | 11–50 |
-| Working Model | Hybrid |
-| Client Base | International clients |
-| Business Activities | Software Development and Cybersecurity Services |
-| Target Standard | ISO/IEC 27001:2022 |
-| Target Timeline | 6 Months |
-
-*Note: This is an illustrative case study, not a claim of actual certification.*
-
-3. Project Objectives
-
-- Establish an ISMS aligned with ISO 27001:2022.
-- Identify and assess information security risks.
-- Define risk treatment plans.
-- Develop information security policies and procedures.
-- Evaluate applicable Annex A controls.
-- Prepare a Statement of Applicability (SoA).
-- Conduct internal audits and gap assessments.
-- Establish corrective action and continual improvement processes.
-
-4. Project Scope
-
-The proposed ISMS covers the organization's software development, cybersecurity service delivery, supporting IT infrastructure, information assets, employees, and relevant third-party services.
-
-The scope includes:
-- Software development environments and source code repositories.
-- Customer information and confidential business data.
-- Identity and access management systems.
-- Cloud infrastructure and production environments.
-- Employee endpoints and remote working arrangements.
-- Security assessment and service delivery processes.
-
-The final scope will be validated against organizational boundaries, locations, interfaces, dependencies, and interested-party requirements.
-
-5. Implementation Phases
-
-| Phase | Activities |
-
-| Phase 1 | Context analysis, interested parties and ISMS scope |
-| Phase 2 | Risk assessment and risk treatment |
-| Phase 3 | Policies, procedures and control implementation |
-| Phase 4 | Statement of Applicability and evidence collection |
-| Phase 5 | Internal audit and management review |
-| Phase 6 | Corrective actions and certification readiness |
-
-6. Project Deliverables
-
-1. ISMS Scope Document
-2. Risk Assessment Methodology
-3. Information Security Risk Register
-4. Risk Treatment Plan
-5. Statement of Applicability
-6. Information Security Policies
-7. Control Implementation Evidence
-8. Internal Audit Report
-9. Management Review Records
-10. Corrective Action Register
-
-7. Reference Standard
-
-ISO/IEC 27001:2022 – Information Security Management Systems – Requirements.
-
-Reference: https://www.iso.org/standard/27001
-
-**Disclaimer:** This repository contains illustrative documentation and practical implementation exercises for professional learning and demonstration. It does not constitute an ISO certification or independent audit opinion.
+All organizations, people, assets, risks, decisions, audit samples and meeting outcomes are fictional. This is a learning portfolio, not proof of implementation, independent audit, legal compliance or ISO certification. Corrective actions are shown as closed within the fictional scenario using explicitly simulated retest outcomes; no real-world evidence or implementation is claimed. Do not present the fictional evidence as real employer or client experience. ISO standards are copyrighted; this portfolio summarizes control decisions and does not reproduce the full standard.
